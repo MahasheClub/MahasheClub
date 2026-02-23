@@ -1,16 +1,15 @@
-## Hi there 👋
+Mahashe
+Windows utilities & Telegram bots • minimal UI • MahasheClub
 
-<!--
-**MahasheClub/MahasheClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Windows инструменты: PATH/ENV, твики, установка софта, контекстное меню
+🤖 Telegram боты: AI-пайплайны, генерация/правки изображений, автоматизация
+🎨 Фокус: быстрый UX, минималистичный интерфейс, аккуратные детали
+Projects
+Mahashe Environment Editor — удобное редактирование PATH и переменных среды
+https://github.com/MahasheClub/Mahashe-Environment-Editor
+Mahashe System Tweaker — твики и обслуживание Windows в одном окне
+https://github.com/MahasheClub/Mahashe-System-Tweaker
+Mahashe Install Hub — быстрая установка программ после переустановки Windows
+https://github.com/MahasheClub/Mahashe-Install-Hub
+Links
+🌐 mahashe.su — быстрый старт-хаб: https://mahashe.su
